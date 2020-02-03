@@ -7,7 +7,8 @@
 template <class Key, class T>
 class Node {
 public:
-  Key k;
+  
+  dKey k;
   T data;
   Node* left;
   Node* right;
