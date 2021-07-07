@@ -1,20 +1,20 @@
 06_BST_Lab
-==============
+===============================================================================================================================
 
 Implement a binary search tree in C++
 
 Requirements
-------------
+--------------------------------------------------------------------------------------------------------------------------------
 
 1. All methods except the destructor and `size()` should be O(h), where h is the height of the tree
 2. `size()` should be O(n)
 
 Reading
-=======
+==============================================================================================================================
 "Open Data Structures," Chapter 6, the entire chapter. http://opendatastructures.org/ods-cpp/6_Binary_Trees.html
 
 Questions
-=========
+==============================================================================================================================
 
 #### 1. Which of the above requirements work, and which do not? For each requirement, write a brief response.
 
